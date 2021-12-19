@@ -14,13 +14,13 @@ Now, go to Secrets (The Lock Icon) on the Left side of your Replit project page.
 
 I advice you to not change the bot prefix in `config.json` because in the `help.js`, you need  to change a lot of things when you change the bot prefix.
 
-> **Config.json Default Settings:**
+**Config.json Default Settings:**
 ```js
 {
     "prefix": "dc!",
 }  
 
-> ```
+```
 
 #### **- Server Setup:**
 
