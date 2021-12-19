@@ -6,6 +6,14 @@ _Your Discord Bot works in only one server._
 ### -Setup The Code:
 Follow the steps below:
 
+#### - **Replit Setup:**
+
+Create a file called `.replit`, copy this code below and paste it in your new file `.replit`. Then, Refresh your replit project.
+```
+language = "nodejs"
+run = "node ."
+```
+
 #### - **Bot Token Setup:**
 
 Now, go to Secrets (The Lock Icon) on the Left side of your Replit project page. Type in the _Key_ case `TOKEN` and paste your bot token that you copied in the _Value_ case. Click on _Add New Secret_.
